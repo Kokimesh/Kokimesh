@@ -20,8 +20,6 @@
 
 ---
 
-For more details on my work and projects, visit my [Portfolio](#).
-
 ### Connect with me:
 
 [<img align="left" alt="YouTube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" style="padding-right:10px;" />](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
