@@ -25,13 +25,14 @@
 [<img align="left" alt="YouTube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" style="padding-right:10px;" />](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
 [<img align="left" alt="YouTube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" style="padding-right:10px;" />](https://www.youtube.com/@meshackkorir1525#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="X" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" style="padding-right:10px;" />](https://x.com/kokimesh#gh-light-mode-only)
-[<img align="left" alt="X" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" style="padding-right:10px;" />](https://x.com/kokimesh#gh-dark-mode-only)
+[<img align="left" alt="X" width="26px" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_23-2149841858.jpg?w=740&t=st=1691551374~exp=1691551974~hmac=5d5064be2c8b1f8dbda08b9989b3273e4b8c38be8581e4f0e0b22c2ea85a5f11" style="padding-right:10px;" />](https://x.com/kokimesh#gh-light-mode-only)
+[<img align="left" alt="X" width="26px" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_23-2149841858.jpg?w=740&t=st=1691551374~exp=1691551974~hmac=5d5064be2c8b1f8dbda08b9989b3273e4b8c38be8581e4f0e0b22c2ea85a5f11" style="padding-right:10px;" />](https://x.com/kokimesh#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_Icon.svg" style="padding-right:10px;" />](mailto:meshack.korir8@gmail.com)
+[<img align="left" alt="Email" width="26px" src="https://seeklogo.com/images/E/email-logo-79F48FADFF-seeklogo.com.png" style="padding-right:10px;" />](mailto:meshack.korir8@gmail.com)
+
 
 
 
