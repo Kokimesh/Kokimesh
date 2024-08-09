@@ -80,6 +80,14 @@
 
 ---
 
+## 📞 Get in Touch
+
+- **Phone:** +254 791 788 024
+- **Email:** [meshack.korir8@gmail.com](mailto:meshack.korir8@gmail.com)
+
+Feel free to reach out to me for any inquiries, collaborations, or just to connect!
+---
+
 ### :zap: GitHub Stats
 
 <img alt="Kokimesh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kokimesh&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
