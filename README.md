@@ -33,12 +33,12 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="VM VirtualBox" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Virtualbox_logo.png" style="padding-right:10px;" />]
+[<img align="left" alt="VM Box" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Virtualbox_logo.png" style="padding-right:10px;" />]
 [<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Airtable" width="26px" src="https://seeklogo.com/images/A/airtable-logo-216B9AF035-seeklogo.com.png" style="padding-right:10px;" />]
 [<img align="left" alt="Zapier" width="26px" src="https://cdn.worldvectorlogo.com/logos/zapier.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Typeform" width="26px" src="https://cdn.worldvectorlogo.com/logos/typeform-1.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Make (formerly Integromat)" width="26px" src="https://www.integromat.com/jp/blog/wp-content/uploads/sites/9/2020/09/make_logo_horizontal_blue.png" style="padding-right:10px;" />]
+[<img align="left" alt="Make" width="26px" src="https://www.integromat.com/jp/blog/wp-content/uploads/sites/9/2020/09/make_logo_horizontal_blue.png" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />]
