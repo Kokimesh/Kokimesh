@@ -19,20 +19,15 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+[![YouTube](./img/youtube-light.svg)](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
+[![YouTube](./img/youtube-dark.svg)](https://www.youtube.com/@meshackkorir1525#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@meshackkorir1525#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://x.com/kokimesh#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://x.com/kokimesh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://x.com/kokimesh#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://x.com/kokimesh#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
+[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
+
 
 
 ### Languages and Tools:
