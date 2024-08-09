@@ -19,14 +19,15 @@
 
 ### Connect with me:
 
-[![YouTube](./img/youtube-light.svg)](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
-[![YouTube](./img/youtube-dark.svg)](https://www.youtube.com/@meshackkorir1525#gh-dark-mode-only)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@meshackkorir1525#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Twitter](./img/twitter-light.svg)](https://x.com/kokimesh#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://x.com/kokimesh#gh-dark-mode-only)
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_X_%28formerly_Twitter%29.svg)](https://x.com/kokimesh#gh-light-mode-only)
+[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_X_%28formerly_Twitter%29.svg)](https://x.com/kokimesh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
+
 
 
 
@@ -37,7 +38,6 @@
 [<img align="left" alt="Airtable" width="26px" src="https://seeklogo.com/images/A/airtable-logo-216B9AF035-seeklogo.com.png" style="padding-right:10px;" />]
 [<img align="left" alt="Zapier" width="26px" src="https://cdn.worldvectorlogo.com/logos/zapier.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Typeform" width="26px" src="https://cdn.worldvectorlogo.com/logos/typeform-1.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Integromat" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Integromat_logo.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />]
