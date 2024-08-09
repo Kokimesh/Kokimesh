@@ -58,16 +58,16 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [This VS Code AI Coding Assistant Is A Game Changer!](https://www.youtube.com/watch?v=dNskJAl5dBw)
-- [I Cannot Believe How Powerful This Headless CMS Is!](https://www.youtube.com/watch?v=43Eznupydng)
-- [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
-- [Eddie Jaoude Explains &amp; Talks about MDX Documentation](https://www.youtube.com/watch?v=ZTX9-_MyaIw)
-- [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
+- [Automated Document Handling and Case Tracking System for Otwal & Manwa Advocates Law Firm](https://youtu.be/kQxgSfYiup0)
+- [Hiring Automation](https://youtu.be/8mrllkXOabQ)
+- [Advisor Check-in Automation](https://youtu.be/hJ8dbxTLilA)
+- [Airtable and Zapier Automation Presentation](https://youtu.be/bY8pv3UaJwA)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/@meshackkorir1525)
 
 ---
+
 
 ### 📕 Latest Blog Posts
 
