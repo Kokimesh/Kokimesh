@@ -19,14 +19,15 @@
 
 ### Connect with me:
 
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
-[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/@meshackkorir1525#gh-dark-mode-only)
+[<img align="left" alt="YouTube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" style="padding-right:10px;" />](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
+[<img align="left" alt="YouTube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" style="padding-right:10px;" />](https://www.youtube.com/@meshackkorir1525#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_X_%28formerly_Twitter%29.svg)](https://x.com/kokimesh#gh-light-mode-only)
-[![Twitter](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_X_%28formerly_Twitter%29.svg)](https://x.com/kokimesh#gh-dark-mode-only)
+[<img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_X_%28formerly_Twitter%29.svg" style="padding-right:10px;" />](https://x.com/kokimesh#gh-light-mode-only)
+[<img align="left" alt="Twitter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_X_%28formerly_Twitter%29.svg" style="padding-right:10px;" />](https://x.com/kokimesh#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
+[<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
+[<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
+
 
 
 
