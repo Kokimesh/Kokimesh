@@ -1,4 +1,4 @@
-# Hi there, I'm Meshack Korir - aka [Kokimesh][youtube] 👋 
+# Hi there, I'm Meshack Korir - aka [Kokimesh][twitter] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-JNi4Lwkz_iNjCk-3Gfeyg?label=Meshack&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/@meshackkorir1525)
 [![X Follow](https://img.shields.io/twitter/follow/kokimesh?color=1DA1F2&logo=X&style=for-the-badge)](https://x.com/kokimesh)
