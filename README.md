@@ -25,13 +25,14 @@
 [<img align="left" alt="YouTube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" style="padding-right:10px;" />](https://www.youtube.com/@meshackkorir1525#gh-light-mode-only)
 [<img align="left" alt="YouTube" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" style="padding-right:10px;" />](https://www.youtube.com/@meshackkorir1525#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="X" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/X.com_logo.svg" style="padding-right:10px;" />](https://x.com/kokimesh#gh-light-mode-only)
-[<img align="left" alt="X" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/X.com_logo.svg" style="padding-right:10px;" />](https://x.com/kokimesh#gh-dark-mode-only)
+[<img align="left" alt="X" width="26px" src="https://img.icons8.com/ios-filled/50/000000/xbox-x.png" style="padding-right:10px;" />](https://x.com/kokimesh#gh-light-mode-only)
+[<img align="left" alt="X" width="26px" src="https://img.icons8.com/ios-filled/50/000000/xbox-x.png" style="padding-right:10px;" />](https://x.com/kokimesh#gh-dark-mode-only)
 &nbsp;&nbsp;
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="Email" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Mail-icon.png" style="padding-right:10px;" />](mailto:meshack.korir8@gmail.com)
+[<img align="left" alt="Email" width="26px" src="https://img.icons8.com/ios-filled/50/000000/email.png" style="padding-right:10px;" />](mailto:meshack.korir8@gmail.com)
+
 
 
 
