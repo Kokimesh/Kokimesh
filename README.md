@@ -31,7 +31,10 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://www.linkedin.com/in/meshack-korir#gh-light-mode-only)
 [<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="padding-right:10px;" />](https://www.linkedin.com/in/meshack-korir#gh-dark-mode-only)
 &nbsp;&nbsp;
+[<img align="left" alt="Medium" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Medium_icon.png" style="padding-right:10px;" />](https://medium.com/@meshack.korir8)
+&nbsp;&nbsp;
 [<img align="left" alt="Email" width="26px" src="https://img.icons8.com/ios-filled/50/000000/email.png" style="padding-right:10px;" />](mailto:meshack.korir8@gmail.com)
+
 
 
 
