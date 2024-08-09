@@ -38,14 +38,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Slack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Airtable" width="26px" src="https://seeklogo.com/images/A/airtable-logo-216B9AF035-seeklogo.com.png" style="padding-right:10px;" />]
-[<img align="left" alt="Zapier" width="26px" src="https://cdn.worldvectorlogo.com/logos/zapier.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Typeform" width="26px" src="https://cdn.worldvectorlogo.com/logos/typeform-1.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Visual Studio" width="26px" src="https://img.icons8.com/ios-filled/50/000000/visual-studio.png" style="padding-right:10px;" />]
+[<img align="left" alt="Slack" width="26px" src="https://img.icons8.com/ios-filled/50/000000/slack.png" style="padding-right:10px;" />]
+[<img align="left" alt="Airtable" width="26px" src="https://img.icons8.com/ios-filled/50/000000/airtable.png" style="padding-right:10px;" />]
+[<img align="left" alt="Zapier" width="26px" src="https://img.icons8.com/ios-filled/50/000000/zapier.png" style="padding-right:10px;" />]
+[<img align="left" alt="Typeform" width="26px" src="https://img.icons8.com/ios-filled/50/000000/typeform.png" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/ios-filled/50/000000/python.png" style="padding-right:10px;" />]
+[<img align="left" alt="Pandas" width="26px" src="https://img.icons8.com/ios-filled/50/000000/pandas.png" style="padding-right:10px;" />]
+[<img align="left" alt="NumPy" width="26px" src="https://img.icons8.com/ios-filled/50/000000/numpy.png" style="padding-right:10px;" />]
+
 
 
 
