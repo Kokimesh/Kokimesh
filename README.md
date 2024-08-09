@@ -82,11 +82,12 @@
 
 ## 📞 Get in Touch
 
-- **Phone:** +254 791 788 024
-- **Email:** [meshack.korir8@gmail.com](mailto:meshack.korir8@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Phone_font_awesome.svg/512px-Phone_font_awesome.svg.png" alt="phone" width="30"/>](tel:+254791788024)
+&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Email_font_awesome.svg/512px-Email_font_awesome.svg.png" alt="email" width="30"/>](mailto:meshack.korir8@gmail.com)
 
 Feel free to reach out to me for any inquiries, collaborations, or just to connect!
----
+
 
 ### :zap: GitHub Stats
 
