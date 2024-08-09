@@ -2,6 +2,8 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-JNi4Lwkz_iNjCk-3Gfeyg?label=Meshack&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/@meshackkorir1525)
 [![X Follow](https://img.shields.io/twitter/follow/kokimesh?color=1DA1F2&logo=X&style=for-the-badge)](https://x.com/kokimesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Meshack%20Korir-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/meshack-korir)
+
 
 
 
