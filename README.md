@@ -9,12 +9,18 @@
 
 ## I'm a Computer Scientist, Software Engineer, Automation Assistant, and a Low-Code & No-Code Developer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- **Experienced Computer Scientist** with a strong background in automation, ICT support, and data science.
+- **Technical Skills:** Python, Airtable, Zapier, Make (formerly Integromat), Typeform, and proficiency in using tools like VSCode, Pandas, NumPy.
+- **Professional Experience:** 
+  - **Automations Assistant Trainee** at Kibo School of Technology, where I designed and managed automated workflows and integrations.
+  - **ICT Support Specialist Intern** at The Judiciary of Kenya, providing critical support and contributing to digital infrastructure.
+  - **Data Scientist** at SOS Networks Company, developing AI models and improving data processing efficiency.
+- **Education:** Bachelor of Science in Computer Science from Jomo Kenyatta University of Agriculture and Technology (JKUAT).
+- **Interests:** Football, gaming, and traveling.
+
+---
+
+For more details on my work and projects, visit my [Portfolio](#).
 
 ### Connect with me:
 
