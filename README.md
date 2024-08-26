@@ -12,8 +12,8 @@
 - **Experienced Computer Scientist** with a strong background in automation, ICT support, and data science.
 - **Technical Skills:** Python, Airtable, Zapier, Make (formerly Integromat), Typeform, and proficiency in using tools like VSCode, Pandas, NumPy.
 - **Professional Experience:** 
-  - **Automations Assistant Trainee** at Kibo School of Technology, where I designed and managed automated workflows and integrations.
-  - **ICT Support Specialist Intern** at The Judiciary of Kenya, providing critical support and contributing to digital infrastructure.
+  - **Automations Assistant** at Kibo School of Technology, where I designed and managed automated workflows and integrations.
+  - **ICT Support Specialist** at The Judiciary of Kenya, providing critical support and contributing to digital infrastructure.
   - **Data Scientist** at SOS Networks Company, developing AI models and improving data processing efficiency.
 - **Education:** Bachelor of Science in Computer Science from Jomo Kenyatta University of Agriculture and Technology (JKUAT).
 - **Interests:** Football, gaming, and traveling.
